@@ -19,7 +19,7 @@ public class danh1 : StateMachineBehaviour
     {
         if (time < 0)
         {
-            animator.SetTrigger("nhay");
+            ("nhay");
         }
         else {
             time -= Time.deltaTime; }
