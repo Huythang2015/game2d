@@ -1,2 +1,0 @@
-C:\Users\PhongVu\Documents\unity 2018\obj\Debug\Assembly-CSharp.csprojAssemblyReference.cache
-C:\Users\PhongVu\Documents\unity 2018\obj\Debug\Assembly-CSharp.csproj.CoreCompileInputs.cache
